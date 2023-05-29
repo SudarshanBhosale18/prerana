@@ -1,0 +1,19 @@
+npm --version
+
+create angular app
+npm install -g @angular/cli@latest
+
+after that 
+ng new partc 
+then yes 
+then css enter
+
+
+after code is written
+
+cd partc
+
+ng serve
+
+then u will see link in terminal 
+click on that link
